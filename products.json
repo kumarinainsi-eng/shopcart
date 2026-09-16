@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Wireless Headphones",
+        "price": 2499,
+        "category": "Electronics",
+        "description": "Premium wireless headphones with clear sound.",
+        "image": "images/headphones.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Men's Casual Shirt",
+        "price": 999,
+        "category": "Clothing",
+        "description": "Comfortable casual shirt for everyday wear.",
+        "image": "images/shirt.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Women's Jacket",
+        "price": 1899,
+        "category": "Clothing",
+        "description": "Stylish jacket with a comfortable modern fit.",
+        "image": "images/jacket.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Laptop Backpack",
+        "price": 1599,
+        "category": "Bags",
+        "description": "Durable backpack suitable for college and travel.",
+        "image": "images/backpack.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Running Shoes",
+        "price": 2299,
+        "category": "Footwear",
+        "description": "Lightweight running shoes for everyday activities.",
+        "image": "images/shoes.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Classic Watch",
+        "price": 3499,
+        "category": "Accessories",
+        "description": "Elegant classic watch for a sophisticated look.",
+        "image": "images/watch.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Smartphone",
+        "price": 15999,
+        "category": "Electronics",
+        "description": "Modern smartphone for work and entertainment.",
+        "image": "images/smartphone.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Travel Bag",
+        "price": 2199,
+        "category": "Bags",
+        "description": "Spacious travel bag with multiple compartments.",
+        "image": "images/travelbag.jpg"
+    }
+]
